@@ -2,6 +2,7 @@
 Matlab Explore 
 (1) 对数坐标图
 semilogx(x1,y1,choose1, x2,y2,choose 2...)
+
 loglog(x1,y1,choose1...)
 ![image](https://user-images.githubusercontent.com/81022107/155873215-d14a88de-2b06-4ec1-81a3-121fdb3f2a20.png)
 
