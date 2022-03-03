@@ -13,6 +13,8 @@ loglog(x1,y1,choose1...)
 比如 x=0:0.1:1.0
 y=1/x;
 subplot(2,2,1)
+然后进行作图 
+这里要注意
 
 
 # MyMatlab-三位曲线
