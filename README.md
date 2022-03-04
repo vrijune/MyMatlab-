@@ -25,14 +25,8 @@ subplot(2,2,1)
 其中 theta为极角，rho为极经，choose的内容与plot函数相同
 
 （2）按照极坐标方程绘制心形图
-f5J2 -sin 
-r = I-sin(l): 
-subplot(l. 2. l) 
-polar(t. r) 
-subplol(l. 2. 2) 
-II 
-rl = I-sin(tl): 
-polar(t. r Il ![image](https://user-images.githubusercontent.com/81022107/156838547-98e55077-4502-4fd4-9f04-022f464a895e.png)
+![image](https://user-images.githubusercontent.com/81022107/156839108-72bb7cd3-ec11-45c9-8c91-5eabc51be21f.png)
+t是0到2pi之间的选择点
 
 
 
