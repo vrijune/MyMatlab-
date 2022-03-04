@@ -2,7 +2,7 @@
 Matlab Explore 
 1. 对数坐标图
 
-**semilogx(x1,y1,choose1, x2,y2,choose 2...)
+**semilogx(x1,y1,choose1, x2,y2,choose 2...)**
   
   **loglog(x1,y1,choose1...)**
 
