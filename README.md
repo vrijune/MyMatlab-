@@ -14,7 +14,26 @@ loglog(x1,y1,choose1...)
 y=1/x;
 subplot(2,2,1)
 然后进行作图 
-这里要注意
+这里要注意所有的图形应该都考虑对数坐标图。
+![image](https://user-images.githubusercontent.com/81022107/156838497-90f71823-dddf-494e-92c0-3ab305dbeeaa.png)
+
+
+
+
+# 其他坐标系下的二维曲线图
+（1） 极坐标图 polar(theta,rho,choose)
+其中 theta为极角，rho为极经，choose的内容与plot函数相同
+
+（2）按照极坐标方程绘制心形图
+f5J2 -sin 
+r = I-sin(l): 
+subplot(l. 2. l) 
+polar(t. r) 
+subplol(l. 2. 2) 
+II 
+rl = I-sin(tl): 
+polar(t. r Il ![image](https://user-images.githubusercontent.com/81022107/156838547-98e55077-4502-4fd4-9f04-022f464a895e.png)
+
 
 
 # MyMatlab-三位曲线
