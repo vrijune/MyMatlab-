@@ -50,6 +50,15 @@ bar 函数： bar (y,style)
 ![image](https://user-images.githubusercontent.com/81022107/156942440-b6315caa-4a55-4c01-a52e-89162b33806e.png)
 
 bar的常用方式有
+1. 条形类图形
+2. bar函数： bar(x,y,style),x:横坐标，y：存储数据
+
+根据不同年份，x代表年份，y代表不同组数据。bar为以x分类的y，title为group
+
+![image](https://user-images.githubusercontent.com/81022107/156942587-32b57301-2372-432a-8178-17d55173302f.png)
+
+3.直方图
+hist函数： hist(y), hist(y,x)
 
 
 
