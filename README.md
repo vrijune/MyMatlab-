@@ -18,6 +18,7 @@ y=1/x;
 subplot(2,2,1)
 然后进行作图 
 这里要注意所有的图形应该都考虑对数坐标图。
+
 ![image](https://user-images.githubusercontent.com/81022107/156838497-90f71823-dddf-494e-92c0-3ab305dbeeaa.png)
 
 ---
@@ -31,7 +32,7 @@ subplot(2,2,1)
 
 ![image](https://user-images.githubusercontent.com/81022107/156839108-72bb7cd3-ec11-45c9-8c91-5eabc51be21f.png)
 
-t是0到2pi之间的选择点
+* *t是0到2pi之间的选择点* *
 
 
 
