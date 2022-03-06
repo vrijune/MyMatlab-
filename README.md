@@ -26,7 +26,9 @@ subplot(2,2,1)
 其中 theta为极角，rho为极经，choose的内容与plot函数相同
 
 （2）按照极坐标方程绘制心形图
+
 ![image](https://user-images.githubusercontent.com/81022107/156839108-72bb7cd3-ec11-45c9-8c91-5eabc51be21f.png)
+
 t是0到2pi之间的选择点
 
 
@@ -36,7 +38,9 @@ t是0到2pi之间的选择点
 bar 函数： bar (y,style)
 其中，参数y可以作为一种数据，而选项style用于指定的分组排列模式。
 比如统计图： 用于对家电商品1月份的销售数据，绘制条形图。
+
 ![image](https://user-images.githubusercontent.com/81022107/156941178-d29ef194-3ff6-4c09-baa1-763111f48b1d.png)
+
 可以来绘制分组条形图：
 先形成一个矩阵叫做y
 然后根据矩阵y，
