@@ -9,7 +9,9 @@ Matlab Explore
 ![image](https://user-images.githubusercontent.com/81022107/155873215-d14a88de-2b06-4ec1-81a3-121fdb3f2a20.png)
 
 可以绘制在其他坐标系下的二维曲线图
+
 比如： 尝试绘制1/x 的直角线性坐标图和三种对数图像
+
 可以先考虑的点： 确定范围并将 y设置为x的等式
 比如 x=0:0.1:1.0
 y=1/x;
@@ -43,6 +45,10 @@ bar 函数： bar (y,style)
 
 可以来绘制分组条形图：
 先形成一个矩阵叫做y,然后根据矩阵y对可能的情况进行排列。
+
+![image](https://user-images.githubusercontent.com/81022107/156942440-b6315caa-4a55-4c01-a52e-89162b33806e.png)
+
+bar的常用方式有
 
 
 
