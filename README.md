@@ -42,8 +42,7 @@ bar 函数： bar (y,style)
 ![image](https://user-images.githubusercontent.com/81022107/156941178-d29ef194-3ff6-4c09-baa1-763111f48b1d.png)
 
 可以来绘制分组条形图：
-先形成一个矩阵叫做y
-然后根据矩阵y，
+先形成一个矩阵叫做y,然后根据矩阵y对可能的情况进行排列。
 
 
 
