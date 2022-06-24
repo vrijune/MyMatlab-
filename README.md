@@ -57,8 +57,8 @@ bar的常用方式有
 
 ![image](https://user-images.githubusercontent.com/81022107/156942587-32b57301-2372-432a-8178-17d55173302f.png)
 
-3.直方图
-hist函数： 
+3. 直方图
+关于hist函数： 
 hist(y), hist(y,x)
 其中，参数y是要统计的数据，x用于指定区间的划分方式
 比如来绘制服从高斯分布的直方图
