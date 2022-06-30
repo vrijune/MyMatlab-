@@ -32,6 +32,7 @@ subplot(2,2,1)
 
 ![image](https://user-images.githubusercontent.com/81022107/156839108-72bb7cd3-ec11-45c9-8c91-5eabc51be21f.png)
 
+
 * *t是0到2pi之间的选择点* *
 
 
