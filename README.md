@@ -23,7 +23,6 @@ subplot(2,2,1)
 
 ---
 
-
 2. 其他坐标系下的二维曲线图
 （1） 极坐标图 polar(theta,rho,choose)
 其中 theta为极角，rho为极经，choose的内容与plot函数相同
