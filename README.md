@@ -65,6 +65,7 @@ hist(y), hist(y,x)
 其中，参数y是要统计的数据，x用于指定区间的划分方式
 比如来绘制服从高斯分布的直方图
 
+
 ![image](https://user-images.githubusercontent.com/81022107/157329037-5098e918-b4bd-402d-84ee-a7ddd7557f6a.png)
 
 
