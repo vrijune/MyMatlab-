@@ -49,6 +49,7 @@ bar 函数： bar (y,style)
 先形成一个矩阵叫做y,然后根据矩阵y对可能的情况进行排列。
 
 
+
 ![image](https://user-images.githubusercontent.com/81022107/156942440-b6315caa-4a55-4c01-a52e-89162b33806e.png)
 
 bar的常用方式有
